@@ -31,7 +31,7 @@
 			<form action="login_chk.php" method="post">
 				
 				<img src="../images/kumbh.jpg" width="120px" height="120px" style="margin: 0px;margin-left: 130px;margin-top: 20px;">
-				<p style="font-size:16px;margin:0px;margin-left:50px;margin-top:35px;color: #fd7123;"><b>LOGIN ID</b></p>
+				<p style="font-size:12px;margin:0px;margin-left:50px;margin-top:35px;color: #fd7123;"><b>LOGIN ID</b></p>
 				<input type="text" placeholder="something@example.com" name="user" style="width:300px;height:40px;margin-left:50px;margin-top:5px;font-size:16px;padding-left:10px;border:0.5px solid #0272A6;"/>	
 				<p style="font-size:16px;margin:0px;margin-left:50px;margin-top:5px;color: #fd7123;"><b>PASSWORD</b></p>
 				<input type="password" placeholder="Password" name="pass" style="width:300px;height:40px;margin-left:50px;margin-top:3px;font-size:16px;padding-left:10px;border:0.5px solid #0272A6;"/>
